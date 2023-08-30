@@ -1,8 +1,6 @@
-[
-    {
-        "Marca" : "Star Wars",
-        "Nombre" : "Luke Skywalker, Scout Trooper, Boba Fett, Dark Trooper, Kessel Run, Jedi, Ahsoka Tano",
-        "Precio": 14000,
-        "Stock" : 16
-    }
-]
+{
+    "Marca" : "Star Wars",
+    "Nombre" : "Luke Skywalker, Scout Trooper, Boba Fett, Dark Trooper, Kessel Run, Jedi, Ahsoka Tano",
+    "Precio": 14000,
+    "Stock" : 16
+}

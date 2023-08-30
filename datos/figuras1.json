@@ -1,8 +1,6 @@
-[
-    {
-        "Marca" : "Hot Toy",
-        "Nombre" : "Spider-Man, Hellboy, Tony Stark, Black Panther, Batman, Captain America, Superman",
-        "Precio": 1200 ,
-        "Stock" : 12
-    }
-]
+{
+    "Marca" : "Hot Toy",
+    "Nombre" : "Spider-Man, Hellboy, Tony Stark, Black Panther, Batman, Captain America, Superman",
+    "Precio": 1200 ,
+    "Stock" : 12
+}

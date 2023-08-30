@@ -1,8 +1,6 @@
-[
-    {
-        "Marca" : "Bandai",
-        "Nombre" : "Gamora, Hulk, Thor, Vegeta, Sailor Pluto, Sailor Saturn, Wonder Woman",
-        "Precio" : 15000,
-        "Stock" : 13
-    }
-]
+{
+    "Marca" : "Bandai",
+    "Nombre" : "Gamora, Hulk, Thor, Vegeta, Sailor Pluto, Sailor Saturn, Wonder Woman",
+    "Precio" : 15000,
+    "Stock" : 13
+}
